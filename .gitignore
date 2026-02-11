@@ -1,1 +1,17 @@
+# Variables de entorno
 .env
+.env.*
+ 
+# Logs
+*.log
+ 
+# Dependencias (por si en algún momento usas npm)
+node_modules/
+ 
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+ 
+# Archivos temporales
+*.tmp
+*.temp
